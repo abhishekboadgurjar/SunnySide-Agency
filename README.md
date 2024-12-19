@@ -49,7 +49,7 @@ To get started with the Sunnyside Agency project, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/abhishekgurjar-in/SunnySide-Agency.git
+   git clone https://github.com/abhishekboadgurjar/SunnySide-Agency.git
    ```
 
 2. **Navigate to the Project Directory:**
@@ -100,6 +100,6 @@ Feel free to explore the code and customize it to fit your needs. Happy coding!
 
 ## Author
 
-**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekgurjar-in).
+**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekboadgurjar).
 
 
